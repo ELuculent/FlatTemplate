@@ -1,0 +1,32 @@
+/*
+ * flat.css | Created for the Flat website template
+ * Created by ThatTonybo
+ *
+ * https://github.com/ThatTonybo/FlatTemplate
+ *
+ */
+
+.pad-nav {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.pad-main {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.navbar-default {
+      background-color:transparent !important;
+      border-color:transparent;
+      background-image:none;
+      box-shadow:none;
+ }
+ 
+   .navbar-default .navbar-nav>li>a {
+     color:#fff; 
+ }
+ 
+ .white-txt {
+  color: #fff;
+ }
