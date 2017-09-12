@@ -1,9 +1,11 @@
 ![Flat.template](https://github.com/ThatTonybo/FlatTemplate/blob/master/img/icon.png?raw=true)
-Flat: A modern and simple Bootstrap Minecraft Server Website Template, which is easy to customize.
+## Flat:
+*A modern and simple Bootstrap Minecraft Server Website Template, which is easy to customize.*
 
 ## Links:
 [View it on SpigotMC](https://www.spigotmc.org/resources/flat-a-simple-minecraft-website-template.47063/) | 
-[View it on MCSafe](https://mcsafe.org/resources/flat-a-simple-minecraft-website-template.4/)
+[View it on MCSafe](https://mcsafe.org/resources/flat-a-simple-minecraft-website-template.4/) | 
+[Demo Link](https://tonybo.me/demo/flat/)
 
 ## Features:
 - Modern style
