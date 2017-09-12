@@ -2,7 +2,7 @@
 A modern and simple Bootstrap Minecraft Server Website Template, which is easy to customize.
 
 ## Links:
-[View it on SpigotMC](https://www.spigotmc.org/resources/flat-a-simple-minecraft-website-template.47063/)
+[View it on SpigotMC](https://www.spigotmc.org/resources/flat-a-simple-minecraft-website-template.47063/) | 
 [View it on MCSafe](https://mcsafe.org/resources/flat-a-simple-minecraft-website-template.4/)
 
 ## Features:
