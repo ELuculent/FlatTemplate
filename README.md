@@ -1,5 +1,5 @@
-# Flat
-A modern and simple Bootstrap Minecraft Server Website Template, which is easy to customize.
+![Flat.template](https://github.com/ThatTonybo/FlatTemplate/blob/master/img/icon.png?raw=true)
+Flat: A modern and simple Bootstrap Minecraft Server Website Template, which is easy to customize.
 
 ## Links:
 [View it on SpigotMC](https://www.spigotmc.org/resources/flat-a-simple-minecraft-website-template.47063/) | 
