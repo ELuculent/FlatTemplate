@@ -10,10 +10,12 @@ A modern and simple Bootstrap Minecraft Server Website Template, which is easy t
 - Easy to use, and customize/edit
 - Uses vanilla Bootstrap 3
 - All HTML/CSS is labelled for easy understanding
+- Simple empty "template" page for easy creation of new pages
 
 ## Current Pages:
 - Homepage (index.html)
 - Coming soon page (coming-soon.html)
+- Template (template.html)
 
 ## Plans:
 - Add many more pages like vote, staff, etc
