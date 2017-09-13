@@ -1,4 +1,4 @@
-![Flat.template](https://github.com/ThatTonybo/FlatTemplate/blob/master/img/icon.png?raw=true)
+![Flat.template](https://raw.githubusercontent.com/ThatTonybo/FlatTemplate/master/img/flat-logo1.png)
 ## Flat:
 *A modern and simple Bootstrap Minecraft Server Website Template, which is easy to customize.*
 
