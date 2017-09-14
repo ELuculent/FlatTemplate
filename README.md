@@ -1,5 +1,4 @@
 ![Flat.template](https://raw.githubusercontent.com/ThatTonybo/FlatTemplate/master/img/flat-logo1.png)
-## Flat:
 *A modern and simple Bootstrap Minecraft Server Website Template, which is easy to customize.*
 
 ## Links:
@@ -8,22 +7,24 @@
 [Demo Link](https://tonybo.me/demo/flat/)
 
 ## Features:
-- Modern style
+- Modern and clean style
 - Easy to use, and customize/edit
+- Usable for any server/community/network/website
 - Uses vanilla Bootstrap 3
 - All HTML/CSS is labelled for easy understanding
 - Simple empty "template" page for easy creation of new pages
+- Navbar/Footer/Header in one PHP file for quick and easy cross-page editing
 
 ## Current Pages:
-- Homepage (index.html)
-- Coming soon page (coming-soon.html)
-- Template (template.html)
+- Homepage (index.php)
+- Vote (vote.php)
+- Staff (staff.php)
+- Template (template.php)
+- Coming soon (coming-soon.php)
 
-## Plans:
-- Add many more pages like vote, staff, etc
+# Plans:
 - Add social integration
-- Redo the footer
-- Make HTML/CSS more easy to edit
+- Add a config.php file to make editing more easier
 
 ## Download:
 - Download it from SpigotMC or MCSafe
@@ -31,8 +32,10 @@
 ## Uses:
 - Bootstrap 3
 - jQuery
+- PHP
 
 ## Information:
 - You are allowed to remove the linking in the footer that says I created it, but please leave some kind of link back to my website if you are nice :)
 - Do not say that you created this. I have put lots of effort into it.
 - If you are asking a question or getting support, please do it in the discussion OR my Discord
+- The template, being PHP files now, requires a web server with at least PHP v5 or higher. XAMPP servers will work too. (You can't just double click and open in Chrome)
