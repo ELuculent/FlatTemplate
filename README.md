@@ -25,7 +25,7 @@
 
 # Plans:
 - Add social integration
-- Add a config.php file to make editing more easier
+- Add a config.php file to make editing easier
 
 ## Download:
 - Download it from SpigotMC or MCSafe
